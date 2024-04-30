@@ -31,7 +31,7 @@ To run the code in this repository, follow these steps:
 `cd data-driven-fluid-flows`
 
 3. Install the required dependencies:
-`pip install -r requirements.txt`
+`pip install -r requirements_.txt`
 
 ## Usage
 1. Open the Jupyter Notebook Data_Driven_Analysis_Of_Fluid_Flows.ipynb.
